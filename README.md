@@ -5,9 +5,9 @@
  - We purpose it also has a facility of admin login through which the admin can monitor the whole system. It has also a facility where student after logging in their accounts can see list of books issued and its issue date and return date. 
  - The librarian after logging into his account i.e., admin account can generate various reports such as student report, issue report, faculty report and book report. 
  - Overall this project of ours is being developed to help the students as well as staff of library to maintain the library in the best way possible and also reduce the human efforts.  
- ### Home Page
+ ## Home Page
  ![Home Page](/images/Home.PNG)
- ### Project Architecture  
+ ## Project Architecture  
  ![This Project Architecture](/images/Architecture.png)
 # [Project 2: Heart Disease Predection: Project Overview: Project Overview](https://github.com/SivaRamiReddyModugula/heart_disease_predection)
 - Created a tool that estimates Heart disease predection  to help the patients are suffering from the heart disease or not.
