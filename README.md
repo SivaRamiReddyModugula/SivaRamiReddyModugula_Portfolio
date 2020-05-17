@@ -6,9 +6,9 @@
  - The librarian after logging into his account i.e., admin account can generate various reports such as student report, issue report, faculty report and book report. 
  - Overall this project of ours is being developed to help the students as well as staff of library to maintain the library in the best way possible and also reduce the human efforts.
  ### Home Page
- ![Home Page](https://github.com/SivaRamiReddyModugula/SivaRamiReddyModugula_Portfolio/blob/master/images/Home.PNG)
+ ![Home Page](/images/Home.PNG)
  ### Project Architecture
- ![This Project Architecture](https://github.com/SivaRamiReddyModugula/SivaRamiReddyModugula_Portfolio/blob/master/images/Deployment%20diagram.png)
+ ![This Project Architecture](/images/Deployment%20diagram.png)
 # [Project 2: Heart Disease Predection: Project Overview: Project Overview](https://github.com/SivaRamiReddyModugula/heart_disease_predection)
 - Created a tool that estimates Heart disease predection  to help the patients are suffering from the heart disease or not.
 - Data collected from the [Kaggel](https://www.kaggle.com/ronitf/heart-disease-uci).  
