@@ -15,3 +15,4 @@
 - Engineered Features from the data and handling the missing values and outliers.  
 - Logistic Regression, Decision Tree Classifier, K-Neighbors Classifier, Linear Discriminant Analysis, Navi-Baies Classifier, Support Vector Machine.  
 - Built a client facing API using flask.
+- I uploaded this project [Heroku](https://heart-disease-pediction-api.herokuapp.com/)
