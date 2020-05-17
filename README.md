@@ -8,7 +8,7 @@
  ### Home Page
  ![Home Page](/images/Home.PNG)
  ### Project Architecture
- ![This Project Architecture](/images/Deployment diagram.png)
+ ![This Project Architecture](/images/Architecture.png)
 # [Project 2: Heart Disease Predection: Project Overview: Project Overview](https://github.com/SivaRamiReddyModugula/heart_disease_predection)
 - Created a tool that estimates Heart disease predection  to help the patients are suffering from the heart disease or not.
 - Data collected from the [Kaggel](https://www.kaggle.com/ronitf/heart-disease-uci).  
