@@ -28,3 +28,4 @@
 - Engineered Features from the data and handling the missing values.
 - In this project I used Linear Regression because the target was a continuous data.
 - Built a client facing API using Flask.
+- I uploaded this project in [Heroku](https://salary-predection-api.herokuapp.com/)
