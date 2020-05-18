@@ -13,6 +13,7 @@
 - Created a tool that estimates Heart disease predection  to help the patients are suffering from the heart disease or not.
 - Data collected from the [Kaggel](https://www.kaggle.com/ronitf/heart-disease-uci).  
 - Engineered Features from the data and handling the missing values and outliers.  
+- Out of the following algorithems only 1 algorithem is used.
   - Logistic Regression, 
   - Decision Tree Classifier, 
   - K-Neighbors Classifier, 
