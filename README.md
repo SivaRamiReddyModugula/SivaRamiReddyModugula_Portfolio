@@ -9,10 +9,16 @@
  ![Home Page](/images/Home.PNG)
  ## Project Architecture  
  ![This Project Architecture](/images/Architecture.png)
-# [Project 2: Heart Disease Predection: Project Overview: Project Overview](https://github.com/SivaRamiReddyModugula/heart_disease_predection)
+# [Project 2: Heart Disease Predection: Project Overview](https://github.com/SivaRamiReddyModugula/heart_disease_predection)
 - Created a tool that estimates Heart disease predection  to help the patients are suffering from the heart disease or not.
 - Data collected from the [Kaggel](https://www.kaggle.com/ronitf/heart-disease-uci).  
 - Engineered Features from the data and handling the missing values and outliers.  
 - Logistic Regression, Decision Tree Classifier, K-Neighbors Classifier, Linear Discriminant Analysis, Navi-Baies Classifier, Support Vector Machine.  
 - Built a client facing API using flask.
 - I uploaded this project [Heroku](https://heart-disease-pediction-api.herokuapp.com/)
+# [Project 3: Salary Predection: Project Overview](https://github.com/SivaRamiReddyModugula/Salary-Predection)
+- Created a tool that estimates the Employees Salary to help HR to calculate the salary.
+- Data is prepared by me.
+- Engineered Features from the data and handling the missing values.
+- In this project I used Linear Regression because the target was a continuous data.
+- Built a client facing API using Flask.
