@@ -53,3 +53,4 @@
   - Navi-Baies Classifier,
   - Support Vector Machine. 
 - Built a client facing API using Flask.
+- I uploaded this project in [Heroku](https://mobile-category-predection-api.herokuapp.com/)  
