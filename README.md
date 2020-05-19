@@ -15,7 +15,7 @@
  ![Home Page](/images/Home.PNG)
 ## Project Architecture  
  ![This Project Architecture](/images/Architecture.png)  
-
+<br/>
 
 # [Project 2: Heart Disease Predection: Project Overview](https://github.com/SivaRamiReddyModugula/heart_disease_predection)
 - Created a tool that estimates Heart disease predection  to help the patients are suffering from the heart disease or not.
@@ -30,7 +30,7 @@
   - Support Vector Machine.  
 - Built a client facing API using flask.
 - I uploaded this project [Heroku](https://heart-disease-pediction-api.herokuapp.com/)  
-
+<br/>
 
 # [Project 3: Salary Predection: Project Overview](https://github.com/SivaRamiReddyModugula/Salary-Predection)
 - Created a tool that estimates the Employees Salary to help HR to calculate the salary.
@@ -39,7 +39,7 @@
 - In this project I used Linear Regression because the target was a continuous data.
 - Built a client facing API using Flask.
 - I uploaded this project in [Heroku](https://salary-predection-api.herokuapp.com/)  
-
+<br/>
 
 # [Project 4: Mobile Category Predection: Project Overview](https://github.com/SivaRamiReddyModugula/Mobile-Category-Predection)
 - Created a tool that estimantes to which your mobile belongs to which catigory.
