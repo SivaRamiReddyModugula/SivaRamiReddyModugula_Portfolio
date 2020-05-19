@@ -4,7 +4,7 @@
  - In previous Existing system does not have any facility of faculty login or student login and generate student reports as well as book issue reports.
  - We purpose it also has a facility of admin login through which the admin can monitor the whole system. It has also a facility where student after logging in their accounts can see list of books issued and its issue date and return date. 
  - The librarian after logging into his account i.e., admin account can generate various reports such as student report, issue report, faculty report and book report. 
- - Overall this project of ours is being developed to help the students as well as staff of library to maintain the library in the best way possible and also reduce the human efforts. 
+ - Overall this project of ours is being developed to help the students as well as staff of library to maintain the library in the best way possible and also reduce the human efforts.   
        - Technology
             - Java
             - J2EE
