@@ -29,3 +29,15 @@
 - In this project I used Linear Regression because the target was a continuous data.
 - Built a client facing API using Flask.
 - I uploaded this project in [Heroku](https://salary-predection-api.herokuapp.com/)
+# [Project 4: Mobile Category Predection: Project Overview](https://github.com/SivaRamiReddyModugula/Mobile-Category-Predection)
+- Created a tool that estimantes to which your mobile belongs to which catigory.
+- Data is collected from Kaggle
+- Select the Best features for the predection.
+- Engineered Features from the data and handling the missing values and outliers.
+  - Logistic Regression,
+  - Decision Tree Classifier,
+  - K-Neighbors Classifier,
+  - Linear Discriminant Analysis,
+  - Navi-Baies Classifier,
+  - Support Vector Machine. 
+- Built a client facing API using Flask.
