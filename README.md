@@ -1,4 +1,4 @@
-# [Project 1: Online Student Access Catalogue For Library: Project Overview](https://github.com/SivaRamiReddyModugula/Online-Student-Access-Catalogue-For-Library)
+# [Project 1: Online Student Access Catalogue For Library: Project Overview](https://github.com/SivaRamiReddyModugula/Online-Student-Access-Catlogue-For-Library)
 - Online Student Access Catalogue is a project which aims in developing a computerized system to maintain all the daily work of library. 
 - This project has many features which are generally not available in normal library management systems like facility of student login and a facility of faculty login and also can update student as well as faculty details. 
 - In previous Existing system does not have any facility of faculty login or student login and generate student reports as well as book issue reports.
