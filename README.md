@@ -12,7 +12,7 @@
   - Servlets
   - MySQL  
 ## Home Page
- ![Home Page](/images/Home.PNG)
+ ![Home Page](/images/Home1.PNG)
 ## Project Architecture  
  ![This Project Architecture](/images/Architecture.png)  
 <br/>
